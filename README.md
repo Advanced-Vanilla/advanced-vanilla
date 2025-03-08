@@ -9,8 +9,7 @@ Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow
 
 > [!WARNING]
 > Advanced Vanilla has **no** backwards compatibility,</br>
-> if it supports a snapshot, it will __always__ support the most recent</br>
-> full verion</br>
+> if it supports a snapshot, it will __always__ support the most recent full verion</br>
 > **The datapack currently only supports the newest snapshots, not the latest full version**
 
 ## Preview images:
