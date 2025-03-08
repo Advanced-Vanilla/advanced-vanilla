@@ -22,3 +22,8 @@ Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla
 ### Animal Variants!
 ![Animal Variants - Cluckshroom](av/readme-assets/preview-images/preview_4.png)
 ![Animal Variants](av/readme-assets/preview-images/preview_5.png)
+
+***
+
+Got Any Copyright Issues?
+DM @painterflow11 on discord!
