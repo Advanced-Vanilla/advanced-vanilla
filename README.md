@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Advanced Vanilla Wiki
+# Advanced Vanilla Wiki - Wait how did you find this?
 ## Version: Wiki-01 | RP-01 | DP-02 -- Beta 1.0 | Hotfix 2
 Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow11**
 > [!IMPORTANT]
