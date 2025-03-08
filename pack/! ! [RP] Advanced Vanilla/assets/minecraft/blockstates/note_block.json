@@ -1,0 +1,79 @@
+{
+	"variants": {
+		"note=0": {
+			"model": "block/note_block_0"
+		},
+		"note=1": {
+			"model": "block/note_block_1"
+		},
+		"note=2": {
+			"model": "block/note_block_2"
+		},
+		"note=3": {
+			"model": "block/note_block_3"
+		},
+		"note=4": {
+			"model": "block/note_block_4"
+		},
+		"note=5": {
+			"model": "block/note_block_5"
+		},
+		"note=6": {
+			"model": "block/note_block_6"
+		},
+		"note=7": {
+			"model": "block/note_block_7"
+		},
+		"note=8": {
+			"model": "block/note_block_8"
+		},
+		"note=9": {
+			"model": "block/note_block_9"
+		},
+		"note=10": {
+			"model": "block/note_block_10"
+		},
+		"note=11": {
+			"model": "block/note_block_11"
+		},
+		"note=12": {
+			"model": "block/note_block_12"
+		},
+		"note=13": {
+			"model": "block/note_block_13"
+		},
+		"note=14": {
+			"model": "block/note_block_14"
+		},
+		"note=15": {
+			"model": "block/note_block_15"
+		},
+		"note=16": {
+			"model": "block/note_block_16"
+		},
+		"note=17": {
+			"model": "block/note_block_17"
+		},
+		"note=18": {
+			"model": "block/note_block_18"
+		},
+		"note=19": {
+			"model": "block/note_block_19"
+		},
+		"note=20": {
+			"model": "block/note_block_20"
+		},
+		"note=21": {
+			"model": "block/note_block_21"
+		},
+		"note=22": {
+			"model": "block/note_block_22"
+		},
+		"note=23": {
+			"model": "block/note_block_23"
+		},
+		"note=24": {
+			"model": "block/note_block_24"
+		}
+	}
+}
