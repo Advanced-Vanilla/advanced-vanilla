@@ -12,3 +12,9 @@ Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow
 > if it supports a snapshot, it will __always__ support the most recent</br>
 > full verion</br>
 > **The datapack currently only supports the newest snapshots, not the latest full version**
+
+## Preview images:
+![New GUI, Items and Blocks](av/readme-assets/preview-images/preview_1.png)
+![New Inventory](av/readme-assets/preview-images/preview_2.png)
+![Animal Variants - Cluckshroom](av/readme-assets/preview-images/preview_4.png)
+![Animal Variants](av/readme-assets/preview-images/preview_5.png)
