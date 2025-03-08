@@ -1,0 +1,12 @@
+{
+  "asset_id": "minecraft:entity/pig/muddy_pig",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#animal_variation:spawns_muddy_pigs"
+      },
+      "priority": 1
+    }
+  ]
+}

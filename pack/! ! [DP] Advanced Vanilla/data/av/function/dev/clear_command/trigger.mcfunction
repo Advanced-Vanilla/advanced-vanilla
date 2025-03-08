@@ -1,0 +1,1 @@
+tellraw @s {text:"Are you sure you want to clear out this area", click_event:{action:"run_command", "command":"function av:dev/clear_command/clearing"}, color:"red", bold:true}

@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "minecraft:entity/wolf/undead/angee",
+    "tame": "minecraft:entity/wolf/undead/normal",
+    "wild": "minecraft:entity/wolf/undead/normal"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "structure",
+        "structures": "av:swamp_see"
+      },
+      "priority": 2
+    }
+  ]
+}
