@@ -1,3 +1,2 @@
 # Advanced Vanilla Wiki
-<a name="test"></a>
-[click](#test)
+<a name="top"></a>
