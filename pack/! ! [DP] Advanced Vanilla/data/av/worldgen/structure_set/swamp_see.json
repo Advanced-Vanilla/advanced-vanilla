@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "av:swamp_see",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 5,
+        "separation": 2,
+        "salt": 1646207470,
+        "frequency": 0.3
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "assets": {
+    "angry": "minecraft:entity/wolf/wither/angee",
+    "tame": "minecraft:entity/wolf/wither/normal",
+    "wild": "minecraft:entity/wolf/wither/normal"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:moon_brightness",
+        "range": {
+          "max": 6,
+          "min": 4
+        }
+      },
+      "priority": 1
+    },
+    {
+      "condition": {
+        "type": "biome",
+        "biomes": "#is_nether"
+      },
+      "priority": 1
+    }
+  ]
+}

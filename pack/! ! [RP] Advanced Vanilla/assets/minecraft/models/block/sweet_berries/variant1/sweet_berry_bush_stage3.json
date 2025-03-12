@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecraft:block/variated/sweet_berries/stage3/sweet_berry_bush_stage3_1"
+  }
+}
