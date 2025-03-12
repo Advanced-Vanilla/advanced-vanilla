@@ -1,0 +1,56 @@
+{
+  "pack": {
+    "description": "Advanced Vanilla - Version: Beta 1.1 Pre1",
+    "pack_format": 99,
+    "supported_formats": [
+      46,
+	    99
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_46",
+        "formats": [
+			46,
+			47
+		]
+      },
+      {
+        "directory": "overlay_shaders",
+        "formats": [
+			46,
+			51
+		]
+      },
+      {
+        "directory": "overlay_dev",
+        "formats": [
+			99,
+			99
+		]
+      },
+      {
+        "directory": "overlay_oreUI",
+        "formats": [
+			99,
+			99
+		]
+      },
+      {
+        "directory": "overlay_releaseUI",
+        "formats": [
+			99,
+			99
+		]
+      }
+    ]
+  },
+  "language": {
+	"dev_M.json": {
+		"name": "Developer Mode",
+		"region": "[DEBUG]",
+		"bidirectional": false
+	}
+  }
+}

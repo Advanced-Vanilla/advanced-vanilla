@@ -1,0 +1,91 @@
+Block redesign:
+- all grass types redesign
+  - variating grass
+  - lower sides
+  - small grass + big grass redesign
+  - podzol redesign
+  - mycelium redesign
+  - moss block + pale moss redesign
+  - including all the moss plants
+  - nylium redesign
+  - lower sides
+  - path redesign
+- variating stuff:
+  - sweet berries
+
+GUI redesign: 
+  - inspired by Minecraft Dungeons
+- new widgets
+- new GUI(containers)
+- new HUD
+- new splashes + title 
+- new panorama
+- new Experience&Level redesign
+- new tooltip
+
+Redstone:
+- directional redstone blocks
+- (non)-triggered indicators
+- personality redstone blocks
+- redstone level music disc indicators
+
+Indicators:
+- food satuation indicators
+- armor bars inidicators
+
+3D stuff:
+  - incase a server changes the model of a 3D item, without linking a
+    texture, the default texture will be used
+- 3D items
+  - totem of undying
+  - all book types
+  - debug staff
+
+Animal Variants:
+- Muddy pig:
+  - spawns in swamps
+- Skeleton wolves:
+  - spawns in swamps with a structure
+- Cluckshroom:
+  - spawns randomly in mushroom fields
+
+Other changes:
+- Enchanted books change depending on the stored enchantment in versions past 25w03a
+- new critical & enchanted hit particles
+- wool looks softer
+- sounds
+  - custom pvp/pve sounds
+  - custom music in some places
+- fireflies have been made green/white and black
+- firefly bushes have been animated
+- bushes look more like dead bushes
+- advancements have been redesigned
+- fullbright
+- no-Fog
+- some item names have been tweaked
+
+Techincal supports&changes:
+- all structure blocks have been redesigned(not jigsaw)
+- all command blocks have been redesigned 
+- debug stick hase been changed to the 
+  staff from the Arch Illage
+- fixed a few wrong pixels on the structure void block
+
+Things to note:
+- the pack does include some Vanilla Tweaks Tweaks.
+- supported mods:
+  - appleskin(Features)
+  - simple voicechat(UI design)
+  - sodium(execluding no-Fog)
+  - optifine(should work, untested tho)
+  - flashback(automated by mod)
+  - NoChatReport(UI design)
+- mods that can get weird issues:
+  - essentials(text)
+- Backwards compatibility:
+  There will never be any type of backwards compatibility, if there
+  is snapshot support, then the
+  latest full version will also be
+  supported.
+- Language support:
+  - en_US (english US)
