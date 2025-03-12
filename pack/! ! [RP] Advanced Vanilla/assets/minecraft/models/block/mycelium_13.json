@@ -1,6 +1,0 @@
-{
-  "parent": "block/mycelium",
-  "textures": {
-    "top": "block/mycelium_top_13"
-  }
-}
