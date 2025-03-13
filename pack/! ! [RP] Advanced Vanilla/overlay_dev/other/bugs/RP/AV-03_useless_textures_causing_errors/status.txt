@@ -1,0 +1,10 @@
+AV-03_useless_textures_causing_errors
+
+Log-lvl: ERROR
+Importance: mid
+Fixed: false
+mc-version: all
+in-progress: true
+Description:
+A few useless textures cause errors in the logs, fixing this bug will heavily clean up log files and also
+improve the loading time of the pack heavily

@@ -1,0 +1,57 @@
+[
+    {
+        "section": "§f §6§l§nAdvanced§r §2§l§nVanilla",
+        "disciplines": [
+            {
+                "discipline": "§5§l§nDebug Info [RP]",
+                "titles": [
+                    {
+                        "title": "§dInformation",
+                        "names": [
+                            "§6Version: §db-1.1 | Pre1",
+                            "§fRP-version: §103"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§d§nExperiments",
+                "titles": [
+                    {
+                        "title": "§725-02_shader",
+                        "names": [
+                            "overlay: 46-51",
+                            "Treatments: 1",
+                            "enables shader features"
+                        ]
+                    },
+                    {
+                        "title": "§725-02_releaseUI",
+                        "names": [
+                            "overlay: 99",
+                            "Treatments: none",
+                            "§cERROR: check experiment description"
+                        ]
+                    },
+                    {
+                        "title": "§725-02_OreUI",
+                        "names": [
+                            "overlay: 99",
+                            "Treatments: none",
+                            "§cERROR: check experiment description"
+                        ]
+                    },
+                    {
+                        "title": "§725-01_1.21.4_component_compaitbility",
+                        "names": [
+                            "overlay: 46, 47",
+                            "Treatments: 1",
+                            "enables ebooks V1 using ebooks V2 textures"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+    
