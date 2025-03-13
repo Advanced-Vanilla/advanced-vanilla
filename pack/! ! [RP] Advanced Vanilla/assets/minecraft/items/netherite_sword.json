@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/netherite_sword"
+    },
+    "cases": [
+      {
+        "when": "radiant",
+        "model": {
+          "type": "model",
+          "model": "civilization:item/tools/radiant_excalibur"
+        }
+      }
+    ]
+  }
+} 

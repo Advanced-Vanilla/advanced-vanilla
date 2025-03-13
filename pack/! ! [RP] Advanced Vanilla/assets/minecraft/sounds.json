@@ -1,0 +1,243 @@
+{
+    "entity.ender_dragon.ambient": {
+        "sounds": [
+            {
+                "name": "mob\/enderdragon\/growl1",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl2",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl3",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.ambient"
+    },
+    "entity.ender_dragon.death": {
+        "sounds": [],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.death"
+    },
+    "entity.ender_dragon.flap": {
+        "sounds": [
+            {
+                "name": "mob\/enderdragon\/wings1",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/wings2",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/wings3",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/wings4",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/wings5",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/wings6",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.flap"
+    },
+    "entity.ender_dragon.growl": {
+        "sounds": [
+            {
+                "name": "mob\/enderdragon\/growl1",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl2",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl3",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/growl4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.growl"
+    },
+    "entity.ender_dragon.hurt": {
+        "sounds": [
+            {
+                "name": "mob\/enderdragon\/hit1",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/hit2",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/hit3",
+                "volume": 0.05
+            },
+            {
+                "name": "mob\/enderdragon\/hit4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.hurt"
+    },
+    "entity.ender_dragon.shoot": {
+        "sounds": [
+            {
+                "name": "mob\/ghast\/fireball4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.shoot"
+    },
+    "block.dispenser.dispense": {
+        "sounds": [
+            {
+                "name": "random\/click",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.dispenser.dispense"
+    },
+    "block.dispenser.fail": {
+        "sounds": [
+            {
+                "name": "random\/click",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.dispenser.fail"
+    },
+    "block.dispenser.launch": {
+        "sounds": [
+            {
+                "name": "random\/bow",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.dispenser.dispense"
+    },
+    "ambient.cave": {
+        "sounds": [],
+        "replace": true
+    },
+    "weather.rain": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/rain1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain3",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain4",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain5",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain6",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain7",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain8",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "weather.rain.above": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/rain1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain3",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "entity.lightning_bolt.thunder": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/thunder1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/thunder2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/thunder3",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.lightning_bolt.thunder"
+    },
+    "item.trident.thunder": {
+        "sounds": [
+            {
+                "name": "item\/trident\/thunder1",
+                "volume": 0.05
+            },
+            {
+                "name": "item\/trident\/thunder2",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.item.trident.thunder"
+    },
+    "entity.wither.spawn": {
+        "sounds": [],
+        "replace": true
+    }
+}
