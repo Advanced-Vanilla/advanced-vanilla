@@ -1,0 +1,2 @@
+tellraw @s {text:"",extra:[{text:"Are you sure about this? This will kill all slimes and item slimeballs.",color:"red","bold":true},{text:" [", color:"gray"},{text:"true",color:"green",bold:true,click_event:{action:"run_command", command:"scoreboard players set @s superflat-mode 1"}},{text:" | ", color:"gray"}, {text:"false",color:"red",bold:true,click_event:{action:"run_command", command:"scoreboard players set @s superflat-mode 0"}}, {text:" ]",color:"gray"}]}
+tellraw @s[team=!developers] {"text":"This is a very dangerous command, be carfull!",color:"red",bold:true}

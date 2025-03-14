@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=dev_clear] if score @s dev-clear_timer matches 0 run function av:dev/clear_command/__sub/___sub/check
+execute as @e[type=armor_stand,tag=dev_clear] unless score @s dev-clear_timer matches 0 run scoreboard players remove @s dev-clear_timer 1
