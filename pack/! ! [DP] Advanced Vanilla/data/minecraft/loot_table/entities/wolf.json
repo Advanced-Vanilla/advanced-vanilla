@@ -13,13 +13,13 @@
                                 "entity": "this",
                                 "predicate": {
                                     "components": {
-                                        "pig/variant": "animal_variation:muddy"
+                                        "wolf/variant": "animal_variation:undead"
                                     }
                                 }
                             }
                         ],
-                        "name": "mud",
-                        "weight": 80
+                        "name": "bone",
+                        "weight": 100
                     },
                     {
                         "type": "item",
@@ -29,13 +29,29 @@
                                 "entity": "this",
                                 "predicate": {
                                     "components": {
-                                        "pig/variant": "animal_variation:muddy"
+                                        "wolf/variant": "animal_variation:withered_undead"
                                     }
                                 }
                             }
                         ],
-                        "name": "porkchop",
+                        "name": "bone",
                         "weight": 100
+                    },
+                    {
+                        "type": "item",
+                        "conditions": [
+                            {
+                                "condition": "entity_properties",
+                                "entity": "this",
+                                "predicate": {
+                                    "components": {
+                                        "wolf/variant": "animal_variation:withered_undead"
+                                    }
+                                }
+                            }
+                        ],
+                        "name": "wither_rose",
+                        "weight": 20
                     }
                 ]
             }

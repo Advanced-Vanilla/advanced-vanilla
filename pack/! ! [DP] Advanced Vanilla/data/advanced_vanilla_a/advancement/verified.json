@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "join": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "join"
+        ]
+    ],
+    "rewards": {
+        "function": "av:handling_clients/__sub/join"
+    }
+}

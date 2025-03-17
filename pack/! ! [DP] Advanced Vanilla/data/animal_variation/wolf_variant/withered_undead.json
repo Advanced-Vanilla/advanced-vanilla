@@ -1,7 +1,7 @@
 {
   "assets": {
     "angry": "minecraft:entity/wolf/wither/angee",
-    "tame": "minecraft:entity/wolf/wither/normal",
+    "tame": "minecraft:entity/wolf/wither/tame",
     "wild": "minecraft:entity/wolf/wither/normal"
   },
   "spawn_conditions": [

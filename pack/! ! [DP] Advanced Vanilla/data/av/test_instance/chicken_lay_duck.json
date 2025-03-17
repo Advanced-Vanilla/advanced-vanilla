@@ -1,0 +1,13 @@
+{
+    "type": "block_based",
+    "environment": "minecraft:default",
+    "max_ticks": 20,
+    "structure": "av:tests/chicken_lay_tests/chicken_duck",
+    "manual_only": false,
+    "max_attempts": 1,
+    "required_successes": 1,
+    "required": true,
+    "rotation": "none",
+    "setup_ticks": 1,
+    "sky_access": false
+}

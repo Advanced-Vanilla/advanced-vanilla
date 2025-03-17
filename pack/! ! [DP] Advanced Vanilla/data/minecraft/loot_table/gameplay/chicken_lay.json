@@ -65,16 +65,24 @@
                     }
                   }
                 ],
-                "functions": [
+                "name": "minecraft:red_mushroom"
+              },
+              {
+                "type": "minecraft:item",
+                "conditions": [
                   {
-                    "function": "set_components",
-                    "components": {
-                      "chicken/variant": "animal_variation:cluckshroom"
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "components": {
+                        "chicken/variant": "animal_variation:duck"
+                      }
                     }
                   }
                 ],
-                "name": "minecraft:red_mushroom"
+                "name": "minecraft:feather"
               }
+              
             ]
         }
       ],

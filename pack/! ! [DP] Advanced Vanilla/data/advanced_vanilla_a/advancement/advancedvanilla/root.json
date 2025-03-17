@@ -10,12 +10,12 @@
       "background": "minecraft:block/mycelium_top",
       "description": [
         {
-          "text": "Advanced Vanilla | Beta 1.0 preview 3\n",
-          "color": "#DE50DE"
+          "text": "Advanced Vanilla Beta 1.0 preview 3",
+          "color": "light_purple"
         },
         {
           "text": "• x.com/PainterFlow11",
-          "color": "#00000"
+          "color": "blue"
         }
       ],
       "icon": {
