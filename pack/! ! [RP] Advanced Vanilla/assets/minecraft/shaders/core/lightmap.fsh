@@ -64,5 +64,5 @@ void main() {
     color = mix(color, vec3(0.75), 0.04);
     color = clamp(color, 0.0, 1.0);
 
-    fragColor = vec4(color, 1.0);
+    fragColor = vec4(1.0);
 }
