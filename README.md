@@ -1,6 +1,6 @@
 <a name="top"></a>
 # Advanced Vanilla
-## Version: Wiki-03 | RP-05 | DP-07 -- Beta 1.1 | Preview 2
+## Version: Wiki-04 | RP-06 | DP-08 -- Beta 1.1 | Preview 3
 Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow11**</br>
 Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla), only experimental snapshots get released here!
 
