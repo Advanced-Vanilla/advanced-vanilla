@@ -6,7 +6,7 @@
         "type": "minecraft:biome",
         "biomes": "minecraft:mushroom_fields"
       },
-      "priority": 1
+      "priority": 3
     }
   ]
 }

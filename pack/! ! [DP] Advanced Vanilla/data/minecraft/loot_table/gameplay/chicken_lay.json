@@ -81,8 +81,22 @@
                   }
                 ],
                 "name": "minecraft:feather"
+              },
+              {
+                "type": "minecraft:item",
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "components": {
+                        "chicken/variant": "animal_variation:brown_cluckshroom"
+                      }
+                    }
+                  }
+                ],
+                "name": "minecraft:brown_mushroom"
               }
-              
             ]
         }
       ],

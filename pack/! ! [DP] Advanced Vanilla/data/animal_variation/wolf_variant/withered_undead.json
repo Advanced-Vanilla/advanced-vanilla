@@ -18,9 +18,9 @@
     {
       "condition": {
         "type": "biome",
-        "biomes": "#is_nether"
+        "biomes": "soul_sand_valley"
       },
-      "priority": 1
+      "priority": 2
     }
   ]
 }
