@@ -1,1 +1,0 @@
-float sphericalDistance = fog_distance(Position, 0);

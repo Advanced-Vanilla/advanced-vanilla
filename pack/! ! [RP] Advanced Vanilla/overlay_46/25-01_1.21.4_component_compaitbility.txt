@@ -1,3 +1,0 @@
-25-01_1.21.4_component_compaitbility
-
-reverts enchantment specific books back to V1 while using textures from V2
