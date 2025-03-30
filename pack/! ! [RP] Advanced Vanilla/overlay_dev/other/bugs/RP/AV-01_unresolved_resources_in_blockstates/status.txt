@@ -1,0 +1,9 @@
+AV-01_unresolved_resources_in_blockstates
+
+Log-lvl: WARN
+Importance: low
+Fixed: false
+mc-version: all
+in-progress: false
+Description:
+A few custom blocks have unresolved blockstate model references.

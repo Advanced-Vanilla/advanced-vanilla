@@ -1,0 +1,9 @@
+AV-02_shield_blocking-not_parsing
+
+Log-lvl: ERROR
+Importance: mid
+Fixed: false
+mc-version: all
+in-progress: false
+Description:
+shield blocking model file is bugged
