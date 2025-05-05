@@ -6,6 +6,7 @@ Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla
 
 > [!IMPORTANT]
 > + [Advanced Vanilla on Modrinth](https://modrinth.com/resourcepack/advanced-vanilla)</br>
+> + [Advanced Vanilla on Curse Forge](https://www.curseforge.com/minecraft/texture-packs/advanced-vanilla)<br/>
 > + [Advanced Vanilla Discord](https://discord.com/invite/8rzVSF36ab)</br>
 > + [PainterFlow11 on X](https://x.com/PainterFlow11)</br>
 
