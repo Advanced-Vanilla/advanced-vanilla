@@ -1,0 +1,4 @@
+{
+    "condition": "preview",
+    "fallback": "assets/minecraft/gui/title/background"
+}
