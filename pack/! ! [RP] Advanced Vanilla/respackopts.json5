@@ -1,0 +1,8 @@
+{
+    id: "av",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        preview: false
+    }
+}
