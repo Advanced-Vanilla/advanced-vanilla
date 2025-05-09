@@ -5,12 +5,7 @@
     conf: {
         useCustomFont: true,
         shaderFeatures: {
-            version: {
-                type: "number",
-                default: 55,
-                min: 55,
-                max: 60
-            }  
+            enabled: true
         },
         experimentOptions: {
             oreUI_polytone: false
