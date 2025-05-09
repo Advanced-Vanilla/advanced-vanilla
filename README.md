@@ -10,11 +10,6 @@ Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla
 > + [Advanced Vanilla Discord](https://discord.com/invite/8rzVSF36ab)</br>
 > + [PainterFlow11 on X](https://x.com/PainterFlow11)</br>
 
-> [!WARNING] 
-> Advanced Vanillas Open Source Version,<br/>
-> will not be updated until the release of beta 1.3,<br/>
-> we are planning on removing all useless vanilla assets their.<br/>
-
 > [!WARNING]
 > Advanced Vanilla has **no** backwards compatibility,</br>
 > if it supports a snapshot, it will __always__ support the most recent full verion</br>
