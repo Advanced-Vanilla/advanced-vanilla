@@ -2,18 +2,18 @@
     "providers": [
         {
             "type": "reference",
-            "id": "minecraft:include/space"
+            "id": "av:include/space"
         },
         {
             "type": "reference",
-            "id": "minecraft:include/default",
+            "id": "av:include/default",
             "filter": {
                 "uniform": false
             }
         },
         {
             "type": "reference",
-            "id": "minecraft:include/unifont"
+            "id": "av:include/unifont"
         },
         {
             "type": "bitmap",
