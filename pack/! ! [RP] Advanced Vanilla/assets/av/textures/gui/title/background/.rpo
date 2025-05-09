@@ -1,4 +1,4 @@
 {
-    "condition": "preview",
+    "condition": "useNewPanorama",
     "fallback": "assets/minecraft/textures/gui/title/background"
 }

@@ -1,8 +1,11 @@
 {
     id: "av",
     version: 13,
-    capabilities: ["FileFilter", "DirFilter"],
+    capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
     conf: {
-        preview: false
+        useCustomFont: true,
+        useNewPanorama: false,
+        oreUI: false,
+        oreUI_polytone: false
     }
 }

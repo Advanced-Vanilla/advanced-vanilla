@@ -1,5 +1,7 @@
 {
-    "rpo.av": "Advanced Vanilla Developer Options",
-    "rpo.av.preview": "Preview mode",
-    "rpo.tooltip.av.preview": "Enables preview from the next update(s)"
+    "rpo.av": "Advanced Vanilla Options",
+    "rpo.av.useCustomFont": "Use the Vanilla Font",
+    "rpo.tooltip.av.useCustomFont": "Disables the custom font!",
+    "rpo.av.useNewPanorama": "Panorama Preview",
+    "rpo.tooltip.av.useNewPanorama": "Enable the panorama from the next update!"
 }
