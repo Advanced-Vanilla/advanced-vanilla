@@ -1,4 +1,4 @@
 {
     "condition": "preview",
-    "fallback": "assets/minecraft/gui/title/background"
+    "fallback": "assets/minecraft/textures/gui/title/background"
 }
