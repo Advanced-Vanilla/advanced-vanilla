@@ -4,8 +4,16 @@
     capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
     conf: {
         useCustomFont: true,
-        useNewPanorama: false,
-        oreUI: false,
-        oreUI_polytone: false
+        shaderFeatures: {
+            version: {
+                type: "number",
+                default: 55,
+                min: 55,
+                max: 60
+            }  
+        },
+        experimentOptions: {
+            oreUI_polytone: false
+        }
     }
 }

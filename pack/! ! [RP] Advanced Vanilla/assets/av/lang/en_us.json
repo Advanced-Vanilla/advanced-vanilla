@@ -2,6 +2,8 @@
     "rpo.av": "Advanced Vanilla Options",
     "rpo.av.useCustomFont": "Use the Vanilla Font",
     "rpo.tooltip.av.useCustomFont": "Disables the custom font!",
-    "rpo.av.useNewPanorama": "Panorama Preview",
-    "rpo.tooltip.av.useNewPanorama": "Enable the panorama from the next update!"
+    "rpo.av.shaderFeatures": "Shader Features! [Can crash your game]",
+    "rpo.av.shaderFeatures.version": "Shader Version",
+    "rpo.tooltip.av.shaderFeatures.version": "Only the latest stable and newest RP version of the game are probably fully supported.\ncheck https://www.minecraft.net or/and https://modrinth.com/resourcepacks/advanced-vanilla"
+
 }
