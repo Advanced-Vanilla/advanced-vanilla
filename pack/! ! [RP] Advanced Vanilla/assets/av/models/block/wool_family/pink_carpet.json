@@ -1,0 +1,6 @@
+{
+  "parent": "av:block/wool_family/carpet",
+  "textures": {
+    "wool": "av:block/pink_wool"
+  }
+}

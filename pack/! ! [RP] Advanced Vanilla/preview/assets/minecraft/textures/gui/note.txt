@@ -1,0 +1,1 @@
+the edition text is no longer being used to show update names

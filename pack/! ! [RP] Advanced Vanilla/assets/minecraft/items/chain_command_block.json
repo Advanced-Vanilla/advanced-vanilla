@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "av:block/command_blocks/chain_command_block"
+  }
+}

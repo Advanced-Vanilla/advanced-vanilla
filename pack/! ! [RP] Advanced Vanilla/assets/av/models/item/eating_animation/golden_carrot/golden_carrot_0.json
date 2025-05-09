@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "av:item/eating_animations/golden_carrot/golden_carrot_0"
+  }
+}

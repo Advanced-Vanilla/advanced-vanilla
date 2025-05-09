@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "av:block/pale_hanging_moss_tip"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "av:block/spawner_family/spawner"
+    }
+  }
+}

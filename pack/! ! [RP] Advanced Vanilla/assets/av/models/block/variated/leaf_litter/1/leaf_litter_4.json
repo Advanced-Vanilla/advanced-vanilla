@@ -1,0 +1,6 @@
+{
+  "parent": "av:block/variated/leaf_litter/template_leaf_litter_4",
+  "textures": {
+    "texture": "av:block/variated/leaf_litter/leaf_litter1"
+  }
+}

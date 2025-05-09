@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "av:item/eating_animations/cooked_porckchop/cooked_porkchop_0"
+  }
+}

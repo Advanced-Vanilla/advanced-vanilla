@@ -1,0 +1,660 @@
+{
+    "ambient.cave": {
+        "sounds": [],
+        "replace": true
+    },
+    "weather.rain": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/rain1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain3",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain4",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain5",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain6",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain7",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain8",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "weather.rain.above": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/rain1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain3",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/rain4",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "entity.lightning_bolt.thunder": {
+        "sounds": [
+            {
+                "name": "ambient\/weather\/thunder1",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/thunder2",
+                "volume": 0.05
+            },
+            {
+                "name": "ambient\/weather\/thunder3",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.lightning_bolt.thunder"
+    },
+    "item.trident.thunder": {
+        "sounds": [
+            {
+                "name": "item\/trident\/thunder1",
+                "volume": 0.05
+            },
+            {
+                "name": "item\/trident\/thunder2",
+                "volume": 0.05
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.item.trident.thunder"
+    },
+    "entity.wither.spawn": {
+        "sounds": [],
+        "replace": true
+    },
+    "music.creative": {
+        "sounds": [
+            {
+                "name": "av:music/creative/a_vision_of_a_god",
+                "volume": 0.4
+            },
+            {
+                "name": "av:music/creative/camp",
+                "volume": 0.6
+            },
+            {
+                "name": "av:music/creative/failure",
+                "volume": 0.95
+            },
+            {
+                "name": "av:music/creative/halland",
+                "volume": 0.8
+            },
+            {
+                "name": "av:music/creative/moonlight_reflection",
+                "volume": 0.75
+            },
+            {
+                "name": "av:music/creative/new_world",
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.credits": {
+        "sounds": [
+            {
+                "name": "av:music/end/credits",
+                "volume": 1.0
+            }
+        ]
+      },
+      "music.dragon": {
+        "sounds": [
+            {
+                "name": "av:music/end/not_a_god",
+                "volume": 1.0
+            }
+        ],
+        "replace": true
+      },
+      "music.end": {
+        "sounds": [
+            {
+                "name": "av:music/end/ambient",
+                "volume": 1.0
+            }
+        ],
+        "replace": true
+      },
+      "music.game": {
+        "sounds": [
+            {
+                "name": "av:music/game/action",
+                "volume": 0.45
+            },
+            {
+                "name": "av:music/game/adventures_await",
+                "volume": 0.45
+            },
+            {
+                "name": "av:music/game/camp",
+                "volume": 0.45
+            },
+            {
+                "name": "av:music/game/caves_and_cliffs",
+                "volume": 0.45
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.bamboo_jungle": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.cherry_grove": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.deep_dark": {
+        "sounds": [ 
+          {
+            "name": "av:music/biomes/deepest/artificial_void",
+            "stream": true,
+            "volume": 1.0
+          }
+        ],
+        "replace": true
+      },
+      "music.overworld.desert": {
+        "sounds": [
+            {
+                "name": "av:music/biomes/deserts/wastes",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "av:music/biomes/deserts/players",
+                "stream": true,
+                "volume": 0.2
+            },
+            {
+                "name": "av:music/biomes/deserts/structures_from_an_ancient_time",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.dripstone_caves": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.flower_forest": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.forest": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            },
+            {
+                "name": "av:music/biomes/forests/fireflies",
+                "stream": true,
+                "volume": 0.4,
+                "weight": 2
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.frozen_peaks": {
+        "sounds": [
+            {
+                "name": "av:music/biomes/howly_peaks/peaks",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:music/biomes/howly_peaks/high",
+                "stream": true,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.grove": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.jagged_peaks": {
+        "sounds": [
+            {
+                "name": "av:music/biomes/howly_peaks/peaks",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:music/biomes/howly_peaks/high",
+                "stream": true,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.jungle": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.lush_caves": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.meadow": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.old_growth_taiga": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.snowy_slopes": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.sparse_jungle": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.stony_peaks": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            },
+            {
+                "name": "av:music/biomes/howly_peaks/peaks",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:music/biomes/howly_peaks/high",
+                "stream": true,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.swamp": {
+        "sounds": [
+          {
+            "name": "av:music/biomes/swamp/fireflies",
+            "stream": true,
+            "volume": 0.4
+          },
+          {
+            "name": "av:music/biomes/swamp/swamp",
+            "stream": true,
+            "volume": 0.4
+          },
+          {
+            "name": "av:music/biomes/swamp/witches",
+            "stream": true,
+            "volume": 0.4
+          }
+        ],
+        "replace": true
+      },
+      "music.under_water": {
+        "sounds": [
+            {
+                "name": "music.game",
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "music.menu": {
+        "sounds": [
+          {
+            "name": "av:music/menu/title",
+            "stream": true,
+            "volume": 0.4
+          }
+        ],
+        "replace": true
+      },
+      "music.nether.basalt_deltas": {
+        "sounds": [
+            {
+                "name": "av:music/nether/basalt_deltas/consequences",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:music/nether/universal/darkness",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.nether.crimson_forest": {
+        "sounds": [
+            {
+                "name": "av:music/nether/crimson_forest/bastion",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:music/nether/universal/darkness",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.nether.nether_wastes": {
+        "sounds": [
+            {
+                "name": "av:music/nether/nether_wastes/hunt",
+                "stream": true,
+                "volume": 0.6
+            },
+            {
+                "name": "mav:usic/nether/universal/darkness",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.nether.soul_sand_valley": {
+        "sounds": [
+            {
+                "name": "av:music/nether/soulsand_valley/mystery",
+                "stream": true,
+                "volume": 0.25
+            },
+            {
+                "name": "av:music/nether/universal/darkness",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.nether.warped_forest": {
+        "sounds": [
+            {
+                "name": "av:music/nether/warped_forest/warped",
+                "stream": true,
+                "volume": 0.6
+            },
+            {
+                "name": "av:music/nether/universal/darkness",
+                "stream": true,
+                "volume": 0.4
+            }
+        ],
+        "replace": true
+      },
+      "music.overworld.badlands": {
+        "sounds": [
+            {
+                "name": "av:music/biomes/deserts/wastes",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "av:music/biomes/deserts/players",
+                "stream": true,
+                "volume": 0.2
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.crit": {
+        "sounds": [
+            {
+                "name": "av:entity/player/attack/crit1",
+                "stream": true,
+                "volume": 1.0
+            },
+            {
+                "name": "av:entity/player/attack/crit2",
+                "stream": true,
+                "volume": 1.0
+            },
+            {
+                "name": "av:entity/player/attack/crit3",
+                "stream": true,
+                "volume": 1.0
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.knockback": {
+        "sounds": [
+            {
+                "name": "av:entity/player/attack/knockback1",
+                "stream": true,
+                "volume": 0.6
+            },
+            {
+                "name": "av:entity/player/attack/knockback2",
+                "stream": true,
+                "volume": 0.6
+            },
+            {
+                "name": "av:entity/player/attack/knockback3",
+                "stream": true,
+                "volume": 0.6
+            },
+            {
+                "name": "av:entity/player/attack/knockback4",
+                "stream": true,
+                "volume": 0.6
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.nodamage": {
+        "sounds": [
+            {
+                "name": "av:entity/player/attack/weak1",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:entity/player/attack/weak2",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:entity/player/attack/weak3",
+                "stream": true,
+                "volume": 0.3
+            },
+            {
+                "name": "av:entity/player/attack/weak4",
+                "stream": true,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.weak": {
+        "sounds": [
+            {
+                "name": "entity.player.attack.nodamage",
+                "volume": 0.5,
+                "type": "event"
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.strong": {
+        "sounds": [
+            {
+                "name": "av:entity/player/attack/strong1",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/strong2",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/strong3",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/strong4",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/strong5",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/strong6",
+                "stream": true,
+                "volume": 0.5
+            }
+        ],
+        "replace": true
+      },
+      "entity.player.attack.sweep": {
+        "sounds": [
+            {
+                "name": "av:entity/player/attack/sweep1",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep2",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep3",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep4",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep4",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep5",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep6",
+                "stream": true,
+                "volume": 0.5
+            },
+            {
+                "name": "av:entity/player/attack/sweep7",
+                "stream": true,
+                "volume": 0.5
+            }
+        ],
+        "replace": true
+      }
+}

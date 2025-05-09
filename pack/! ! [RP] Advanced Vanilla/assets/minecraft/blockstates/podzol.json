@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "av:block/grass_block_family/podzol"
+      },
+      {
+        "model": "av:block/grass_block_family/podzol",
+        "y": 90
+      },
+      {
+        "model": "av:block/grass_block_family/podzol",
+        "y": 180
+      },
+      {
+        "model": "av:block/grass_block_family/podzol",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "av:block/grass_block_family/grass_block_snow"
+    }
+  }
+}

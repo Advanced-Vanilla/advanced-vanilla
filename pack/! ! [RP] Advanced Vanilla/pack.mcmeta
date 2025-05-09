@@ -1,0 +1,49 @@
+{
+  "pack": {
+    "description": "Advanced Vanilla - Version: Beta 1.3_01",
+    "pack_format": 99,
+    "supported_formats": [
+      55,
+	    99
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "preview",
+        "formats": [
+			99,
+			99
+		]
+      },
+      {
+        "directory": "overlay_oreUI",
+        "formats": [
+			99,
+			99
+		]
+      },
+      {
+        "directory": "overlay_techblocks_redesign",
+        "formats": [
+			99,
+			99
+		]
+      },
+      {
+        "directory": "overlay_shaders_snap",
+        "formats": [
+      60,
+      99
+    ]
+      },
+      {
+        "directory": "overlay_shulkers_preview",
+        "formats": [
+      99,
+      99
+    ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+beta 1.2 - Tinkering Tweaks
+- Preview 1 | 08/04/2025
+- Preview 2 | 15/04/2025
+- Preview 3 | 23/04/2025
+- Release   | 27/04/2025
+
+Related Experiments:
+- 25-04_ebooks_v3
+- 25-04_techblocks_redesign

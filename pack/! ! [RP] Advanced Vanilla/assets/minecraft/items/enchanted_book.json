@@ -1,0 +1,1138 @@
+{
+  "model": {
+    "type": "select",
+    "property": "component",
+    "component": "stored_enchantments",
+    "fallback": {
+      "type": "model",
+      "model": "av:item/enchanted_book/fallback"
+    },
+    "cases": [
+      {
+        "when": {
+          "aqua_affinity": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/aqua_affinity"
+        }
+      },
+      {
+        "when": {
+          "bane_of_arthropods": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/arthropods_1"
+        }
+      },
+      {
+        "when": {
+          "bane_of_arthropods": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/arthropods_2"
+        }
+      },
+      {
+        "when": {
+          "bane_of_arthropods": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/arthropods_3"
+        }
+      },
+      {
+        "when": {
+          "bane_of_arthropods": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/arthropods_4"
+        }
+      },
+      {
+        "when": {
+          "bane_of_arthropods": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/arthropods_5"
+        }
+      },
+      {
+        "when": {
+          "binding_curse": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/binding_curse"
+        }
+      },
+      {
+        "when": {
+          "blast_protection": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/blast_protection_1"
+        }
+      },
+      {
+        "when": {
+          "blast_protection": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/blast_protection_2"
+        }
+      },
+      {
+        "when": {
+          "blast_protection": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/blast_protection_3"
+        }
+      },
+      {
+        "when": {
+          "blast_protection": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/blast_protection_4"
+        }
+      },
+      {
+        "when": {
+          "breach": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/breach_1"
+        }
+      },
+      {
+        "when": {
+          "breach": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/breach_2"
+        }
+      },
+      {
+        "when": {
+          "breach": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/breach_3"
+        }
+      },
+      {
+        "when": {
+          "breach": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/breach_4"
+        }
+      },
+      {
+        "when": {
+          "channeling": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/channeling"
+        }
+      },
+      {
+        "when": {
+          "density": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/density_1"
+        }
+      },
+      {
+        "when": {
+          "density": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/density_2"
+        }
+      },
+      {
+        "when": {
+          "density": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/density_3"
+        }
+      },
+      {
+        "when": {
+          "density": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/density_4"
+        }
+      },
+      {
+        "when": {
+          "density": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/density_5"
+        }
+      },
+      {
+        "when": {
+          "depth_strider": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/depth_strider_1"
+        }
+      },
+      {
+        "when": {
+          "depth_strider": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/depth_strider_2"
+        }
+      },
+      {
+        "when": {
+          "depth_strider": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/depth_strider_3"
+        }
+      },
+      {
+        "when": {
+          "efficiency": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/efficiency_1"
+        }
+      },
+      {
+        "when": {
+          "efficiency": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/efficiency_2"
+        }
+      },
+      {
+        "when": {
+          "efficiency": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/efficiency_3"
+        }
+      },
+      {
+        "when": {
+          "efficiency": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/efficiency_4"
+        }
+      },
+      {
+        "when": {
+          "efficiency": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/efficiency_5"
+        }
+      },
+      {
+        "when": {
+          "feather_falling": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/feather_falling_1"
+        }
+      },
+      {
+        "when": {
+          "feather_falling": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/feather_falling_2"
+        }
+      },
+      {
+        "when": {
+          "feather_falling": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/feather_falling_3"
+        }
+      },
+      {
+        "when": {
+          "feather_falling": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/feather_falling_4"
+        }
+      },
+      {
+        "when": {
+          "fire_aspect": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_aspect_1"
+        }
+      },
+      {
+        "when": {
+          "fire_aspect": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_aspect_2"
+        }
+      },
+      {
+        "when": {
+          "fire_protection": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_protection_1"
+        }
+      },
+      {
+        "when": {
+          "fire_protection": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_protection_2"
+        }
+      },
+      {
+        "when": {
+          "fire_protection": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_protection_3"
+        }
+      },
+      {
+        "when": {
+          "fire_protection": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fire_protection_4"
+        }
+      },
+      {
+        "when": {
+          "flame": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/flame"
+        }
+      },
+      {
+        "when": {
+          "fortune": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fortune_1"
+        }
+      },
+      {
+        "when": {
+          "fortune": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fortune_2"
+        }
+      },
+      {
+        "when": {
+          "fortune": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/fortune_3"
+        }
+      },
+      {
+        "when": {
+          "frost_walker": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/frost_walker_1"
+        }
+      },
+      {
+        "when": {
+          "frost_walker": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/frost_walker_2"
+        }
+      },
+      {
+        "when": {
+          "impaling": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/impaling_1"
+        }
+      },
+      {
+        "when": {
+          "impaling": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/impaling_2"
+        }
+      },
+      {
+        "when": {
+          "impaling": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/impaling_3"
+        }
+      },
+      {
+        "when": {
+          "impaling": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/impaling_4"
+        }
+      },
+      {
+        "when": {
+          "impaling": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/impaling_5"
+        }
+      },
+      {
+        "when": {
+          "infinity": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/infinity"
+        }
+      },
+      {
+        "when": {
+          "knockback": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/knockback_1"
+        }
+      },
+      {
+        "when": {
+          "knockback": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/knockback_2"
+        }
+      },
+      {
+        "when": {
+          "looting": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/looting_1"
+        }
+      },
+      {
+        "when": {
+          "looting": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/looting_2"
+        }
+      },
+      {
+        "when": {
+          "looting": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/looting_3"
+        }
+      },
+      {
+        "when": {
+          "loyalty": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/loyalty_1"
+        }
+      },
+      {
+        "when": {
+          "loyalty": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/loyalty_2"
+        }
+      },
+      {
+        "when": {
+          "loyalty": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/loyalty_3"
+        }
+      },
+      {
+        "when": {
+          "luck_of_the_sea": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/luck_of_the_sea_1"
+        }
+      },
+      {
+        "when": {
+          "luck_of_the_sea": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/luck_of_the_sea_2"
+        }
+      },
+      {
+        "when": {
+          "luck_of_the_sea": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/luck_of_the_sea_3"
+        }
+      },
+      {
+        "when": {
+          "lure": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/lure_1"
+        }
+      },
+      {
+        "when": {
+          "lure": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/lure_2"
+        }
+      },
+      {
+        "when": {
+          "lure": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/lure_3"
+        }
+      },
+      {
+        "when": {
+          "mending": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/mending"
+        }
+      },
+      {
+        "when": {
+          "multishot": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/multishot"
+        }
+      },
+      {
+        "when": {
+          "piercing": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/piercing_1"
+        }
+      },
+      {
+        "when": {
+          "piercing": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/piercing_2"
+        }
+      },
+      {
+        "when": {
+          "piercing": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/piercing_3"
+        }
+      },
+      {
+        "when": {
+          "piercing": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/piercing_4"
+        }
+      },
+      {
+        "when": {
+          "power": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/power_1"
+        }
+      },
+      {
+        "when": {
+          "power": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/power_2"
+        }
+      },
+      {
+        "when": {
+          "power": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/power_3"
+        }
+      },
+      {
+        "when": {
+          "power": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/power_4"
+        }
+      },
+      {
+        "when": {
+          "power": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/power_5"
+        }
+      },
+      {
+        "when": {
+          "projectile_protection": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/projectile_protection_1"
+        }
+      },
+      {
+        "when": {
+          "projectile_protection": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/projectile_protection_2"
+        }
+      },
+      {
+        "when": {
+          "projectile_protection": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/projectile_protection_3"
+        }
+      },
+      {
+        "when": {
+          "projectile_protection": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/projectile_protection_4"
+        }
+      },
+      {
+        "when": {
+          "protection": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/protection_1"
+        }
+      },
+      {
+        "when": {
+          "protection": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/protection_2"
+        }
+      },
+      {
+        "when": {
+          "protection": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/protection_3"
+        }
+      },
+      {
+        "when": {
+          "protection": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/protection_4"
+        }
+      },
+      {
+        "when": {
+          "punch": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/punch_1"
+        }
+      },
+      {
+        "when": {
+          "punch": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/punch_2"
+        }
+      },
+      {
+        "when": {
+          "quick_charge": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/quick_charge_1"
+        }
+      },
+      {
+        "when": {
+          "quick_charge": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/quick_charge_2"
+        }
+      },
+      {
+        "when": {
+          "quick_charge": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/quick_charge_3"
+        }
+      },
+      {
+        "when": {
+          "respiration": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/respiration_1"
+        }
+      },
+      {
+        "when": {
+          "respiration": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/respiration_2"
+        }
+      },
+      {
+        "when": {
+          "respiration": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/respiration_3"
+        }
+      },
+      {
+        "when": {
+          "riptide": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/riptide_1"
+        }
+      },
+      {
+        "when": {
+          "riptide": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/riptide_2"
+        }
+      },
+      {
+        "when": {
+          "riptide": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/riptide_3"
+        }
+      },
+      {
+        "when": {
+          "sharpness": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sharpness_1"
+        }
+      },
+      {
+        "when": {
+          "sharpness": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sharpness_2"
+        }
+      },
+      {
+        "when": {
+          "sharpness": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sharpness_3"
+        }
+      },
+      {
+        "when": {
+          "sharpness": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sharpness_4"
+        }
+      },
+      {
+        "when": {
+          "sharpness": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sharpness_5"
+        }
+      },
+      {
+        "when": {
+          "silk_touch": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/silk_touch"
+        }
+      },
+      {
+        "when": {
+          "smite": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/smite_1"
+        }
+      },
+      {
+        "when": {
+          "smite": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/smite_2"
+        }
+      },
+      {
+        "when": {
+          "smite": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/smite_3"
+        }
+      },
+      {
+        "when": {
+          "smite": 4
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/smite_4"
+        }
+      },
+      {
+        "when": {
+          "smite": 5
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/smite_5"
+        }
+      },
+      {
+        "when": {
+          "soul_speed": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/soul_speed_1"
+        }
+      },
+      {
+        "when": {
+          "soul_speed": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/soul_speed_2"
+        }
+      },
+      {
+        "when": {
+          "soul_speed": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/soul_speed_3"
+        }
+      },
+      {
+        "when": {
+          "sweeping_edge": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sweeping_1"
+        }
+      },
+      {
+        "when": {
+          "sweeping_edge": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sweeping_2"
+        }
+      },
+      {
+        "when": {
+          "sweeping_edge": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/sweeping_3"
+        }
+      },
+      {
+        "when": {
+          "swift_sneak": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/swift_sneak_1"
+        }
+      },
+      {
+        "when": {
+          "swift_sneak": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/swift_sneak_2"
+        }
+      },
+      {
+        "when": {
+          "swift_sneak": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/swift_sneak_3"
+        }
+      },
+      {
+        "when": {
+          "thorns": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/thorns_1"
+        }
+      },
+      {
+        "when": {
+          "thorns": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/thorns_2"
+        }
+      },
+      {
+        "when": {
+          "thorns": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/thorns_3"
+        }
+      },
+      {
+        "when": {
+          "unbreaking": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/unbreaking_1"
+        }
+      },
+      {
+        "when": {
+          "unbreaking": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/unbreaking_2"
+        }
+      },
+      {
+        "when": {
+          "unbreaking": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/unbreaking_3"
+        }
+      },
+      {
+        "when": {
+          "vanishing_curse": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/curse_of_vanishing"
+        }
+      },
+      {
+        "when": {
+          "wind_burst": 1
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/wind_burst_1"
+        }
+      },
+      {
+        "when": {
+          "wind_burst": 2
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/wind_burst_2"
+        }
+      },
+      {
+        "when": {
+          "wind_burst": 3
+        },
+        "model": {
+          "type": "model",
+          "model": "av:item/enchanted_book/wind_burst_3"
+        }
+      }
+        ]
+      }
+    }

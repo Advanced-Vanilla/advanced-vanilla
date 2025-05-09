@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "av:item/eating_animations/spider_eye/spider_eye_1"
+  }
+}

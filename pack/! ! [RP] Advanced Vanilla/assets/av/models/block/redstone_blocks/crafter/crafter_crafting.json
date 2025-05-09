@@ -1,0 +1,27 @@
+{
+	"credit": "Made by PainterFlow11",
+	"parent": "av:block/redstone_blocks/crafter/crafter_triggered",
+	"textures": {
+		"4": "av:block/redstone/crafter/crafter_south_triggered",
+		"5": "av:block/redstone/crafter/crafter_bottom",
+		"top": "av:block/redstone/crafter/crafter_top_crafting",
+		"north": "av:block/redstone/crafter/crafter_north_crafting",
+		"east": "av:block/redstone/crafter/crafter_east_crafting",
+		"west": "av:block/redstone/crafter/crafter_west_crafting",
+		"particle": "av:block/redstone/crafter/crafter_south_triggered"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#north", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#east", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+core:
+- rendertype_text.vsh
+- position_tex_color.fsh
+- rendertype_item_entity_translucent_cull.fsh
+
+include:
+- added custom exp files
+
+post:
+none

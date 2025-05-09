@@ -1,0 +1,14 @@
+{
+	"variants": {
+        "": [
+      { "model": "av:block/grass_block_family/moss_carpet",
+        "y": 0 },
+      { "model": "av:block/grass_block_family/moss_carpet",
+        "y": 90 },
+      { "model": "av:block/grass_block_family/moss_carpet",
+        "y": 180 },
+      { "model": "av:block/grass_block_family/moss_carpet",
+        "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "av:block/command_blocks/repeating_command_block"
+  }
+}

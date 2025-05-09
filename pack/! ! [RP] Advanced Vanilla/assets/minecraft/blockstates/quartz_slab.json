@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "av:block/quartz_family/quartz_slab"
+    },
+    "type=double": {
+      "model": "av:block/quartz_family/quartz_block"
+    },
+    "type=top": {
+      "model": "av:block/quartz_family/quartz_slab_top"
+    }
+  }
+}

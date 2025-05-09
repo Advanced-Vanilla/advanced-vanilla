@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "av:block/redstone_blocks/note_block/note_block"
+  }
+}

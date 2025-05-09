@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:axolotl/variant",
+    "cases": [
+      {
+        "when": "wild",
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:item/axolotl_buckets/brown"
+        }
+      },
+      {
+        "when": "gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:item/axolotl_buckets/yellow"
+        }
+      },
+      {
+        "when": "cyan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:item/axolotl_buckets/white"
+        }
+      },
+      {
+        "when": "blue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:item/axolotl_buckets/blue"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/axolotl_bucket"
+    }
+  }
+}

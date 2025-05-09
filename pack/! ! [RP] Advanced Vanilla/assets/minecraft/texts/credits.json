@@ -1,0 +1,172 @@
+[
+    {
+        "section": "§f §6§l§nAdvanced§r §2§l§nVanilla",
+        "disciplines": [
+            {
+                "discipline": "§6§l§nCredits",
+                "titles": [
+                    {
+                        "title": "§b§lOriginal Creator",
+                        "names": [
+                            "§9PainterFlow11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§5§l§nDevelopers",
+                "titles": [
+                    {
+                        "title": "§5§nLead Dev§r §7§l& §l§4Owner",
+                        "names": [
+                            "§4PainterFlow11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§2§n§lContributer",
+                "titles": [
+                    {
+                        "title": "§6§nShaders:",
+                        "names": [
+                            "@mineland. §9§l[Discord]",
+                            "@ioblackshaw §9§l[Discord]"
+                        ]
+                    },
+                    {
+                        "title": "§2§nRe-Colord experience orbs&font",
+                        "names": [
+                            "§a@ioblackshaw §9§l[Discord]"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§c§lMusic §7§l& §6§lSoundeffects",
+                "titles": [
+                    {
+                        "title": "§6§nPlease Note for Sound Effects!",
+                        "names": [
+                            "§8----",
+                            "Due to the fact that I will§7(in the Future)§r and already have",
+                            "added so many sound effects that researching and listing all of",
+                            "the people would probably take a hot minute,",
+                            "so I'll just say right here:",
+                            "§8----",
+                            "§9§lAll Soundeffects have been taken from §6§l§nMinecraft Dungeons,",
+                            "§b§l§nMinecraft Legends§9§l§n and §2§l§nMinecraft§7(Vanilla Game)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§f §2§lVanilla §6§lTweaks§r §6§nTweak List:",
+                "titles": [
+                    {
+                        "title": "§6§nCredits:",
+                        "names": [
+                            "§9§nhttps://vanillatweaks.net/"
+                        ]
+                    },
+                    {
+                        "title": "§aVariation Tweaks:",
+                        "names": [
+                            "- Variated Dirt",
+                            "- Variated Coarse Dirt",
+                            "- Variated Cobblestone",
+                            "- Variated Birch Logs",
+                            "- Variated Red Mushroom",
+                            "- Variated Endstone",
+                            "- Variated Gravel",
+                            "- Variated Mycelium",
+                            "- Variated Planks",
+                            "- Variated Stone",
+                            "- Variated Terracotta",
+                            "- Variated Unpolished Stones",
+                            "- Variated Bookshelves"
+                        ]
+                    },
+                    {
+                        "title": "§7Utility Tweaks:",
+                        "names": [
+                            "- Redstone Power level",
+                            "- Groovy Levers",
+                            "- Visual Note Block Pitch"
+                        ]
+                    },
+                    {
+                        "title": "§9Unobtrusive",
+                        "names": [
+                            "- Unobtrusive Enchantment Glint"
+                        ]
+                    },
+                    {
+                        "title": "§7GUI Tweaks",
+                        "names": [
+                            "- Smoother Font"
+                        ]
+                    },
+                    {
+                        "title": "§c§lPlease Note",
+                        "names": [
+                            "Some Parts from some of the features of this Pack",
+                            "have been made by §6Vanilla Tweaks§r",
+                            "but due to ther TOS,",
+                            "they are not under credits.txt",
+                            "since they have gotten big modifications",
+                            "and do not violate their copyright infringements",
+                            "the tweaks that were listed above",
+                            "only have slight modifications or",
+                            "are not modified at all!",
+                            "and are licensed under credits.txt",
+                            "§dthx for reading this important note!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§7§n§lOther.",
+                "titles": [
+                    {
+                        "title": "§d§nSocial§r §5§nMedia",
+                        "names": [
+                            " §9§nhttps://x.com/PainterFlow11",
+                            "§9§nhttps://discord.com/invite/8rzVSF36ab"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§6§n§lExtra Credits",
+                "titles": [
+                    {
+                        "title": "§f §2Vanilla §6Tweaks",
+                        "names": [
+                            "§9§nhttps://vanillatweaks.net/"
+                        ]
+                    },
+                    {
+                        "title": "§9§lMusic/Sound Effects made by Mojang/Microsoft!",
+                        "names": [
+                            "§cNOT AN OFFICIAL MINECRAFT [PRODUCT/SERVICE/EVENT/etc.].",
+                            "§cNOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "§f §6§l§nAdvanced§r §2§l§nVanilla",
+                "titles": [
+                    {
+                        "title": "§2§l§nMade by",
+                        "names": [
+                            "§9@PainterFlow11"
+                        ]
+                    }
+                ]
+            }
+
+        ]
+    }
+]

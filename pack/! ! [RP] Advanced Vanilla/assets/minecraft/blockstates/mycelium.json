@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "snowy=false": {
+      "model": "av:block/grass_block_family/mycelium"
+    },
+    "snowy=true": {
+      "model": "av:block/grass_block_family/grass_block_snow"
+    }
+  }
+}

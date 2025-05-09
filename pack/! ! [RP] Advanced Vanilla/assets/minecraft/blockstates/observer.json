@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer",
+      "x": 90
+    },
+    "facing=down,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on",
+      "x": 90
+    },
+    "facing=east,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer",
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on",
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer"
+    },
+    "facing=north,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on"
+    },
+    "facing=south,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer",
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on",
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer",
+      "x": 270
+    },
+    "facing=up,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on",
+      "x": 270
+    },
+    "facing=west,powered=false": {
+      "model": "av:block/redstone_blocks/observer/observer",
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "av:block/redstone_blocks/observer/observer_on",
+      "y": 270
+    }
+  }
+}

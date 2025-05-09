@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "av:block/spawner_family/spawner"
+  }
+}

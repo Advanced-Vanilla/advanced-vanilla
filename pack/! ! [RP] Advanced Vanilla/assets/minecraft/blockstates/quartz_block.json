@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "av:block/quartz_family/quartz_block"
+    }
+  }
+}

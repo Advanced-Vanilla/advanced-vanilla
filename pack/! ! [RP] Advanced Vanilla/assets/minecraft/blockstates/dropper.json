@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "facing=down,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper_vertical",
+      "x": 180
+    },
+    "facing=east,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper",
+      "y": 90
+    },
+    "facing=north,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper"
+    },
+    "facing=south,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper",
+      "y": 180
+    },
+    "facing=up,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper_vertical"
+    },
+    "facing=west,triggered=false": {
+      "model": "av:block/redstone_blocks/dropper/dropper",
+      "y": 270
+    },
+    "facing=down,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_vertical_activated",
+      "x": 180
+    },
+    "facing=east,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_activated",
+      "y": 90
+    },
+    "facing=north,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_activated"
+    },
+    "facing=south,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_activated",
+      "y": 180
+    },
+    "facing=up,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_vertical_activated"
+    },
+    "facing=west,triggered=true": {
+      "model": "av:block/redstone_blocks/dropper/dropper_activated",
+      "y": 270
+    }
+  }
+}

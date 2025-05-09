@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/potion",
+  "textures": {
+    "layer0": "av:item/eating_animations/potion/potion_overlay_3",
+	"layer1": "av:item/eating_animations/potion/potion_drinking"
+  }
+}
