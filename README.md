@@ -1,13 +1,19 @@
 <a name="top"></a>
 # Advanced Vanilla
-## Version: Wiki-05 | RP-07 | DP-09 -- Beta 1.1
+## Version: Wiki-10 | RP-11 | DP-12 -- Beta 1.2
 Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow11**</br>
 Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla), only experimental snapshots get released here!
 
 > [!IMPORTANT]
 > + [Advanced Vanilla on Modrinth](https://modrinth.com/resourcepack/advanced-vanilla)</br>
+> + [Advanced Vanilla on Curse Forge](https://www.curseforge.com/minecraft/texture-packs/advanced-vanilla)<br/>
 > + [Advanced Vanilla Discord](https://discord.com/invite/8rzVSF36ab)</br>
 > + [PainterFlow11 on X](https://x.com/PainterFlow11)</br>
+
+> [!WARNING] 
+> Advanced Vanillas Open Source Version,<br/>
+> will not be updated until the release of beta 1.3,<br/>
+> we are planning on removing all useless vanilla assets their.<br/>
 
 > [!WARNING]
 > Advanced Vanilla has **no** backwards compatibility,</br>
