@@ -1,7 +1,0 @@
-25-02_releaseUI
-
-Right now empty, planning to add a small preview for GUI. 
-I maybe use Polytone for HUD in order to pare it with Minecraft Dungeons.
-GUI will release in 1.0 full release. Planning to add some stuff here from time to time.
-
-Requirements: Maybe Polytone

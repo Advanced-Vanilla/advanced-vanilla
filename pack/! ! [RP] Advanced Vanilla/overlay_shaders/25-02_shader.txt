@@ -1,7 +1,0 @@
-25-02_shader
-
-enables features using core shaders.
-This will be removed when these requirements are met:
-1. docu on the new core shader system
-2. updated the features 
-3. 1.21.5/1.22 releases
