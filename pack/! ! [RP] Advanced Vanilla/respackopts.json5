@@ -8,8 +8,8 @@
             enabled: true
         },
         gui: {
-            oreUI
-        }
+            oreUI: false
+        },
         experimentOptions: {
             oreUI_polytone: false
         }

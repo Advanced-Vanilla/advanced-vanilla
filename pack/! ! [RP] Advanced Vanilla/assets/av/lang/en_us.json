@@ -4,6 +4,8 @@
     "rpo.tooltip.av.useCustomFont": "Disables the custom font!",
     "rpo.av.shaderFeatures": "Shader Features! [Can crash your game]",
     "rpo.av.shaderFeatures.enabled": "Enable Shaders",
-    "rpo.tooltip.av.shaderFeatures.enabled": "Only the latest stable and newest RP version of the game are probably fully supported.\ncheck https://www.minecraft.net or/and https://modrinth.com/resourcepacks/advanced-vanilla"
-
+    "rpo.tooltip.av.shaderFeatures.enabled": "Only the latest stable and newest RP version of the game are probably fully supported.\ncheck https://www.minecraft.net or/and https://modrinth.com/resourcepacks/advanced-vanilla",
+    "rpo.av.gui": "GUI Settings",
+    "rpo.av.gui.oreUI": "Ore UI",
+    "rpo.tooltip.av.gui.oreUI": " Experimental"
 }
