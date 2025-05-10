@@ -1,0 +1,4 @@
+{
+    "condition": "oreUI",
+    "fallback": "assets/av/lang/oreUI.json"
+}
