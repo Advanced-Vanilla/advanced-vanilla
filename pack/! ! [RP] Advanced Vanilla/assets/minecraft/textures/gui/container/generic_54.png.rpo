@@ -1,0 +1,4 @@
+{
+    "condition": "!gui.oreUI",
+    "fallback": "assets/minecraft/textures/gui/ore_ui/container/generic_54.png"
+}

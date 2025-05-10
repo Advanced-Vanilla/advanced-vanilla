@@ -7,6 +7,9 @@
         shaderFeatures: {
             enabled: true
         },
+        gui: {
+            oreUI
+        }
         experimentOptions: {
             oreUI_polytone: false
         }
