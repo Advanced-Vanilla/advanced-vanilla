@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/chiseled_quartz_block"
+      "model": "av:block/quartz_family/chiseled_quartz_block"
     }
   }
 }
