@@ -1,4 +1,4 @@
 {
-    "condition": "!techblocksRedesign",
+    "condition": "!experimentOptions.techblocksRedesign",
     "fallback": "assets/minecraft/blockstates/experiment/techblocks/command_block.json"
 }
