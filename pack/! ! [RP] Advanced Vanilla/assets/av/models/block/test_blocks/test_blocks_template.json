@@ -4,6 +4,9 @@
         "particle": "#side",
         "down": "#down",
         "up": "#up",
-        "side": "#side"
+        "north": "#side",
+        "south": "#side",
+        "east": "#side",
+        "west": "#side"
     }
 }
