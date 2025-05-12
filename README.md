@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Advanced Vanilla
-## Version: Wiki-11 | RP-12 | DP-12 -- Beta 1.3 Preview 1
-Advanced Vanilla is a minecraft Resourcepack and Datapack made by **@PainterFlow11**</br>
+## Version: Wiki-12 | RP-12 -- Beta 1.3 Preview 1
+Advanced Vanilla is a minecraft Resourcepack made by **@PainterFlow11**</br>
 Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla), only experimental snapshots get released here!
 
 > [!IMPORTANT]
@@ -13,16 +13,12 @@ Updates release on [Modrinth](https://modrinth.com/resourcepack/advanced-vanilla
 > [!WARNING]
 > Advanced Vanilla has **no** backwards compatibility,</br>
 > if it supports a snapshot, it will __always__ support the most recent full verion</br>
-> **The datapack currently only supports the newest snapshots, not the latest full version**
 
 ## Preview images:
 ### New GUI, Items and Blocks!
 ![New GUI, Items and Blocks](av/readme-assets/preview-images/preview_1.png)
 ### New Inventory(the entire GUI has been updated btw)!
 ![New Inventory](av/readme-assets/preview-images/preview_2.png)
-### Animal Variants!
-![Animal Variants - Cluckshroom](av/readme-assets/preview-images/preview_4.png)
-![Animal Variants](av/readme-assets/preview-images/preview_5.png)
 
 ***
 
