@@ -1,8 +1,8 @@
 {
   "parent": "av:block/test_blocks/test_blocks_template",
   "textures": {
-    "up": "av:block/tech_blocks/test_block/test_block_start_td",
-    "down": "av:block/tech_blocks/test_block/test_block_start_td",
+    "up": "av:block/tech_blocks/test_block/test_block_start",
+    "down": "av:block/tech_blocks/test_block/test_block_start",
     "side": "av:block/tech_blocks/test_block/test_block_start"
   }
 }

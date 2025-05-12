@@ -1,12 +1,9 @@
 {
-    "parent": "block/cube_directional",
+    "parent": "block/cube_all",
     "textures": {
         "particle": "#side",
         "down": "#down",
         "up": "#up",
-        "north": "#side",
-        "east": "#side",
-        "south": "#side",
-        "west": "#side"
+        "side": "#side"
     }
 }
