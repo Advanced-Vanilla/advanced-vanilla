@@ -1,0 +1,4 @@
+{
+    "condition": "!techblocksRedesign",
+    "fallback": "assets/minecraft/blockstates/experiment/techblocks/repeating_command_block.json"
+}
