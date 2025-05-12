@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "av:block/test_blocks/test_instance_block"
+    }
+  }
+}

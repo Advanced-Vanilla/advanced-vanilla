@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "mode=accept": {
+      "model": "av:block/test_blocks/test_block_accept"
+    },
+    "mode=fail": {
+      "model": "av:block/test_blocks/test_block_fail"
+    },
+    "mode=log": {
+      "model": "av:block/test_blocks/test_block_log"
+    },
+    "mode=start": {
+      "model": "av:block/test_blocks/test_block_start"
+    }
+  }
+}
