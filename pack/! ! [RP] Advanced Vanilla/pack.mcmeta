@@ -17,30 +17,9 @@
 		]
       },
       {
-        "directory": "overlay_oreUI",
-        "formats": [
-			99,
-			99
-		]
-      },
-      {
-        "directory": "overlay_techblocks_redesign",
-        "formats": [
-			99,
-			99
-		]
-      },
-      {
         "directory": "overlay_shaders_snap",
         "formats": [
-      60,
-      99
-    ]
-      },
-      {
-        "directory": "overlay_shulkers_preview",
-        "formats": [
-      99,
+      61,
       99
     ]
       }
