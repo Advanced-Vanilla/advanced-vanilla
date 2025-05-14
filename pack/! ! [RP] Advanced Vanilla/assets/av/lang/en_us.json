@@ -6,6 +6,13 @@
     "rpo.av.shaderFeatures.enabled": "Enable Shaders",
     "rpo.tooltip.av.shaderFeatures.enabled": "Only the latest stable and newest RP version of the game are probably fully supported.\ncheck https://www.minecraft.net or/and https://modrinth.com/resourcepacks/advanced-vanilla",
     "rpo.av.gui": "GUI Settings",
-    "rpo.av.gui.oreUI": "Ore UI",
-    "rpo.tooltip.av.gui.oreUI": " Experimental"
+    "rpo.av.gui.oreUI": "25-02_OreUI",
+    "rpo.tooltip.av.gui.oreUI": " Experimental | upgrades UI version to 210",
+    "rpo.av.gui.releaseUI": "25-05_releaseUI",
+    "rpo.tooltip.av.gui.releaseUI": " Experimental | upgrades UI to version 3",
+    "rpo.av.experimentOptions": "Experiment Options",
+    "rpo.av.experimentOptions.techblocksRedesign": "25-05_techblocksRedesign",
+    "rpo.tooltip.av.experimentOptions.techblocksRedesign": " Experimental | enables new Technical Blocks",
+    "rpo.av.experimentOptions.preview": "inf-00_preview",
+    "rpo.tooltip.av.experimentOptions.preview": " Experimental | enables new basic Features from the next update"
 } 

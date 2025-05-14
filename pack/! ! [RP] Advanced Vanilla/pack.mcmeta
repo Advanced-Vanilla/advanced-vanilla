@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Advanced Vanilla - Version: Beta 1.3_01",
+    "description": "Advanced Vanilla - Version: Beta 1.3_02",
     "pack_format": 99,
     "supported_formats": [
       55,
@@ -9,13 +9,6 @@
   },
   "overlays": {
     "entries": [
-      {
-        "directory": "preview",
-        "formats": [
-			99,
-			99
-		]
-      },
       {
         "directory": "overlay_shaders_snap",
         "formats": [

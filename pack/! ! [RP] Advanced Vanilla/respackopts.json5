@@ -8,11 +8,12 @@
             enabled: true
         },
         gui: {
-            oreUI: false
+            oreUI: false,
+            releaseUI: false
         },
         experimentOptions: {
             techblocksRedesign: false,
-            oreUI_polytone: false
+            preview: false
         }
     }
 }
