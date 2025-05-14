@@ -3,6 +3,6 @@
   "textures": {
     "back": "av:block/tech_blocks/command_blocks/chain/chain_command_block_back_conditional",
     "front": "av:block/tech_blocks/command_blocks/chain/chain_command_block_front_conditional",
-    "side": "av:block/tech_blocks/command_blocks/chain/chain_command_block_conditional"
+    "side": "av:block/tech_blocks/command_blocks/chain/chain_command_block_side_conditional"
   }
 }
