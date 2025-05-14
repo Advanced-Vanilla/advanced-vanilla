@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:block/template_command_block",
+  "parent": "av:block/command_blocks_2/template_command_block",
   "textures": {
-    "back": "minecraft:block/command_block_back",
-    "front": "minecraft:block/command_block_front",
-    "side": "minecraft:block/command_block_side"
+    "back": "av:block/tech_blocks/command_blocks/impulse/command_block_back",
+    "front": "av:block/tech_blocks/command_blocks/impulse/command_block_front",
+    "side": "av:block/tech_blocks/command_blocks/impulse/command_block_side"
   }
 }
