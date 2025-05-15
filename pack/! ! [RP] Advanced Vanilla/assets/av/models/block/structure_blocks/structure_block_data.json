@@ -1,8 +1,8 @@
 {
   "parent": "av:block/structure_blocks/structure_block_template",
   "textures": {
-    "bottom": "av:block/tech_blocks/structure_blocks/data/data_bottom",
-    "top": "av:block/tech_blocks/structure_blocks/data/data_top",
+    "bottom": "av:block/tech_blocks/structure_blocks/data/data_td",
+    "top": "av:block/tech_blocks/structure_blocks/data/data_td",
     "side": "av:block/tech_blocks/structure_blocks/data/data_side"
   }
 }

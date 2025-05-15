@@ -1,8 +1,8 @@
 {
   "parent": "av:block/structure_blocks/structure_block_template",
   "textures": {
-    "bottom": "av:block/tech_blocks/structure_blocks/save/save_bottom",
-    "top": "av:block/tech_blocks/structure_blocks/save/save_top",
+    "bottom": "av:block/tech_blocks/structure_blocks/save/save_td",
+    "top": "av:block/tech_blocks/structure_blocks/save/save_td",
     "side": "av:block/tech_blocks/structure_blocks/save/save_side"
   }
 }
