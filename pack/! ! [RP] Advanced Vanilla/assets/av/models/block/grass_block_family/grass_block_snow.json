@@ -2,7 +2,7 @@
     "textures": {
         "particle": "minecraft:block/dirt",
         "bottom": "minecraft:block/dirt",
-        "top": "minecraft:block/debug",
+        "top": "av:missing",
         "side": "av:block/grass_block_snow"
     },
     "elements": [
