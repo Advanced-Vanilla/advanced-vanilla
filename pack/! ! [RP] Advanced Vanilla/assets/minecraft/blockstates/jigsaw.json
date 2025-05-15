@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "orientation=down_east": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 90,
+      "y": 90
+    },
+    "orientation=down_north": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 90
+    },
+    "orientation=down_south": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 90,
+      "y": 180
+    },
+    "orientation=down_west": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 90,
+      "y": 270
+    },
+    "orientation=east_up": {
+      "model": "av:block/jigsaw/jigsaw",
+      "y": 90
+    },
+    "orientation=north_up": {
+      "model": "av:block/jigsaw/jigsaw"
+    },
+    "orientation=south_up": {
+      "model": "av:block/jigsaw/jigsaw",
+      "y": 180
+    },
+    "orientation=up_east": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 270,
+      "y": 270
+    },
+    "orientation=up_north": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 270,
+      "y": 180
+    },
+    "orientation=up_south": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 270
+    },
+    "orientation=up_west": {
+      "model": "av:block/jigsaw/jigsaw",
+      "x": 270,
+      "y": 90
+    },
+    "orientation=west_up": {
+      "model": "av:block/jigsaw/jigsaw",
+      "y": 270
+    }
+  }
+}
