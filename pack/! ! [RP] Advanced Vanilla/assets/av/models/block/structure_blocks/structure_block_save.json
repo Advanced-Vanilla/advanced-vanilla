@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "av:block/structure_blocks/structure_block_template",
   "textures": {
-    "all": "minecraft:block/structure_block_save"
+    "bottom": "av:block/tech_blocks/structure_blocks/save/save_bottom",
+    "top": "av:block/tech_blocks/structure_blocks/save/save_top",
+    "side": "av:block/tech_blocks/structure_blocks/save/save_side"
   }
 }
