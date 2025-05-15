@@ -12,7 +12,6 @@
             releaseUI: false
         },
         experimentOptions: {
-            techblocksRedesign: false,
             preview: false
         }
     }

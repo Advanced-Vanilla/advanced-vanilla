@@ -1,8 +1,0 @@
-{
-  "parent": "av:block/command_blocks_2/template_command_block",
-  "textures": {
-    "back": "av:block/tech_blocks/command_blocks/impulse/command_block_back",
-    "front": "av:block/tech_blocks/command_blocks/impulse/command_block_front",
-    "side": "av:block/tech_blocks/command_blocks/impulse/command_block_side"
-  }
-}

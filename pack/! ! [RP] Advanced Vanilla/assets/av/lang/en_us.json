@@ -11,8 +11,6 @@
     "rpo.av.gui.releaseUI": "25-05_releaseUI",
     "rpo.tooltip.av.gui.releaseUI": " Experimental | upgrades UI to version 3",
     "rpo.av.experimentOptions": "Experiment Options",
-    "rpo.av.experimentOptions.techblocksRedesign": "25-05_techblocksRedesign",
-    "rpo.tooltip.av.experimentOptions.techblocksRedesign": " Experimental | enables new Technical Blocks",
     "rpo.av.experimentOptions.preview": "inf-00_preview",
     "rpo.tooltip.av.experimentOptions.preview": " Experimental | enables new basic Features from the next update"
 } 

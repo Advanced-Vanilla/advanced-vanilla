@@ -1,5 +1,0 @@
-25-04_techblocks_redesign
-
-Redesigns all technical blocks as promised.
-
-Requirements: none
