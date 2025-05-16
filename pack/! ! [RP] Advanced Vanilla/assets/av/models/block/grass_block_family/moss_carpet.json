@@ -2,8 +2,8 @@
 	"credit": "Created by Stridey",
 	"parent": "block/carpet",
 	"textures": {
-		"particle": "block/moss_block",
-		"wool": "block/moss_block"
+		"particle": "av:block/moss_block",
+		"wool": "av:block/moss_block"
 	},
 	"elements": [
 		{
@@ -409,42 +409,10 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"rotation": [10.66, -51.88, 16.69],
-			"translation": [0, 2.75, 0],
-			"scale": [0.3, 0.3, 0.3]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [10.66, -51.88, 16.69],
-			"translation": [0, 2.75, 0],
-			"scale": [0.3, 0.3, 0.3]
-		},
-		"firstperson_righthand": {
-			"rotation": [142.54, -46.99, 170.25],
-			"translation": [0, 6.25, 1],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_lefthand": {
-			"rotation": [142.54, -46.99, 170.25],
-			"translation": [0, 6.25, 1],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"ground": {
-			"rotation": [10.66, -51.88, 16.69],
-			"translation": [0, 3.75, 0],
-			"scale": [0.3, 0.3, 0.3]
-		},
 		"gui": {
-			"rotation": [26.33, 16.34, 6.33],
-			"translation": [0, 5.25, 0],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"head": {
-			"translation": [0, 5.75, 0]
-		},
-		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -9.5]
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 7, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
 		}
 	}
 }
