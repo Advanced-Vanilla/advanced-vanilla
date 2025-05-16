@@ -1,0 +1,31 @@
+Button - normal
+red = baseColor // baseColor 
+blue = baseColor + 14(brightness) // baseColorBright
+yellow = baseColor + 5(brightness) // baseColorDark
+white = middle of baseColorBright(brightness) and baseColorDark(brightness) // baseColorMid
+orange = baseColor - 9(brightness) // baseColorDepth
+black = baseColor - 17(brightness) // baseColorOutline
+
+Button - Pressed
+red = baseColor - 8(brightness) // pressedBaseColor
+blue = baseColorBright - 10(brightness) //pressedBaseColorBright
+yellow = baseColorDark - 9(brightness) //pressedBaseColorDark
+white = middle of pressedBaseColorBright and pressedBaseColorDark
+orange = baseColorDepth - 6 // pressedBaseColorDepth
+black = baseColorOutline
+
+Button - Hovered
+red = hoveredBaseColor // hoveredBaseColor
+blue = hoveredBaseColor + 9 //hoveredBaseColorBright
+yellow = hoveredBaseColor + 4 // hoveredBaseColorDark
+white = hoveredBaseColorBright + 4 // hoveredBaseColorMid
+orange = hoveredBaseColor - 20 // hoveredBaseColorDepth
+black = baseColorOutline
+
+Button - Selected
+red = hoveredBaseColor
+blue = hoveredBaseColor
+yellow = hoveredBaseColor
+white = hoveredBaseColorBright
+orange = hoveredBaseColorDepth
+black = baseColorOutline
