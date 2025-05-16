@@ -13,6 +13,9 @@
         },
         experimentOptions: {
             preview: false
+        },
+        devOptions: {
+            fastPrismarineAnimation: false
         }
     }
 }

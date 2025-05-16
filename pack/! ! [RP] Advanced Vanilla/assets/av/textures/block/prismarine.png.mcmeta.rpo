@@ -1,0 +1,4 @@
+{
+    "condition": "!devOptions.fastPrismarineAnimation",
+    "fallback": "assets/av/textures/block/fastPrismarineAnimation.png.mcmeta"
+}
