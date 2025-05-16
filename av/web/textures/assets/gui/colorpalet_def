@@ -1,0 +1,12 @@
+red = BaseColor
+blue = BaseColor + 14(brightness)
+yellow = BaseColor - 8(brightness)
+black = if BaseColor is above 50(brightness) then BaseColor will be rounded 50(brightness), if its under then it will be rounded to 0(brightness)
+white = BaseColor - 5(brightness)
+green = BaseColor - 10(brightness)
+purple = BaseColor + 32(brightness)
+orange = middle of green(brightness) and purple(brightness)
+
+Explanation:
+red = BaseColor, that doesnt change
+bl

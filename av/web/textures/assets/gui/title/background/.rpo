@@ -1,0 +1,4 @@
+{
+    "condition": "!experimentOptions.preview",
+    "fallback": "assets/minecraft/textures/gui/title/preview"
+}
