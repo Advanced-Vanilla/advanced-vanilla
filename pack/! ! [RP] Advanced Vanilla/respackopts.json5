@@ -13,7 +13,7 @@
         },
         experimentOptions: {
             preview: false,
-            smallerUtils: false
+            itemTweaks: false
         },
         devOptions: {
             fastPrismarineAnimation: false
