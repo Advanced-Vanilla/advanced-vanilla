@@ -12,7 +12,8 @@
             releaseUI: false
         },
         experimentOptions: {
-            preview: false
+            preview: false,
+            smallerUtils: false
         },
         devOptions: {
             fastPrismarineAnimation: false

@@ -15,5 +15,7 @@
     "rpo.tooltip.av.experimentOptions.preview": " Experimental | enables new basic Features from the next update",
     "rpo.av.devOptions": "Developer Options",
     "rpo.tooltip.av.devOptions": "[DANGEROUS]",
-    "rpo.av.devOptions.fastPrismarineAnimation": "Speed Up Prismarine Animation"
+    "rpo.av.devOptions.fastPrismarineAnimation": "Speed Up Prismarine Animation",
+    "rpo.av.experimentOptions.smallerUtils": "25-05_smallerUtils",
+    "rpo.tooltip.experimentOptions.smallerUtils": "Rolles out: Beta 1.4_01"
 } 
