@@ -1,0 +1,4 @@
+{
+    "condition": "!experimentOptions.itemTweaks",
+    "fallback": "assets/av/models/item/diamond.json"
+}
