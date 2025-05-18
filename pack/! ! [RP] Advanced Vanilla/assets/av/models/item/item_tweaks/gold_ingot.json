@@ -2,5 +2,11 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/gold_ingot"
+  },
+  "display": {
+    "ground": {
+      "translation": [0, 3, 0],
+      "scale": [0.7, 0.7, 0.5]
+		}
   }
 }

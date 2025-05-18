@@ -24,8 +24,8 @@
 			"scale": [0.34, 0.34, 0.34]
 		},
 		"ground": {
-			"translation": [0, 2, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 3, 0],
+			"scale": [0.7, 0.7, 0.5]
 		},
 		"head": {
 			"rotation": [0, 180, 0],
