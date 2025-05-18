@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/dried_kelp"
+      "model": "av:item/eating_animation/dried_kelp/dried_kelp_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
