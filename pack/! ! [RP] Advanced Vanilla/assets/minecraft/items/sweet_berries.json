@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/sweet_berries"
+      "model": "av:item/eating_animation/sweet_berries/sweet_berries_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

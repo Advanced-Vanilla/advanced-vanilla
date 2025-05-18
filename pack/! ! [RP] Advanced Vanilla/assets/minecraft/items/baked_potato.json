@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/baked_potato"
+      "model": "av:item/eating_animation/cooked_potato/cooked_potato_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

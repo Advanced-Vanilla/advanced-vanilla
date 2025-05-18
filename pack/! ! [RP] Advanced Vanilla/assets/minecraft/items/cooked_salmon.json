@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/cooked_salmon"
+      "model": "av:item/eating_animation/cooked_salmon/cooked_salmon_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

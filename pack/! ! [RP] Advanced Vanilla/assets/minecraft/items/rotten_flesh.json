@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/rotten_flesh"
+      "model": "av:item/eating_animation/rotten_flesh/rotten_flesh_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

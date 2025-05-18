@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/spider_eye"
+      "model": "av:item/eating_animation/spider_eye/spider_eye_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

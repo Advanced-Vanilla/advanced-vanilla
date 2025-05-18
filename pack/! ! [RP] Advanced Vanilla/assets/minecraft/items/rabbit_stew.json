@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/rabbit_stew"
+      "model": "av:item/eating_animation/rabbit_stew/rabbit_stew_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

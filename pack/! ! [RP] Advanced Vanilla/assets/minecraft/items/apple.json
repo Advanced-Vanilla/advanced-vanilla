@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/apple"
+      "model": "av:item/eating_animation/apple/apple_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

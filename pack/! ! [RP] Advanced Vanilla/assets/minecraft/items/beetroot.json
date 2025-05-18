@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/beetroot"
+      "model": "av:item/eating_animation/beetroot/beetroot_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",

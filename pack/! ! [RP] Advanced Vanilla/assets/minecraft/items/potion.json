@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/potion",
+      "model": "av:item/eating_animation/potion/potion_0",
 	  "tints": [
       {
         "type": "minecraft:potion",

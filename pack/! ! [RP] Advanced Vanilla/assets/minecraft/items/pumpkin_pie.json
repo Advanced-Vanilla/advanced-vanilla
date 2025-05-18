@@ -3,7 +3,7 @@
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/pumpkin_pie"
+      "model": "av:item/eating_animation/pumpkin_pie/pumpkin_pie_0"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
