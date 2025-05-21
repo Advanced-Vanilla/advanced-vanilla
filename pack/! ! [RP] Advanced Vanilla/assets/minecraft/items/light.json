@@ -8,7 +8,7 @@
           "type": "minecraft:model",
           "model": "av:block/light_blocks/item/light_00"
         },
-        "when": "light_0"
+        "when": "0"
       },
       {
         "model": {
@@ -78,7 +78,7 @@
           "type": "minecraft:model",
           "model": "av:block/light_blocks/item/light_10"
         },
-        "when": "1light_0"
+        "when": "10"
       },
       {
         "model": {
