@@ -1,0 +1,7 @@
+{
+    "parent": "av:block/lantern/template_lantern",
+    "textures": {
+        "base": "av:block/deco/lantern/lantern",
+        "extra": "av:block/deco/lantern/extra"
+    }
+}
