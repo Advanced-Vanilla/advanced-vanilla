@@ -1,0 +1,5 @@
+result: success
+task: draw a line on the screen
+learned: no need for UI triggering
+edited shaders: blit_screen.fsh
+version: 1.21.5
