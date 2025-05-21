@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Shader Test",
+    "pack_format": 99,
+    "supported_formats": [
+      55,
+	    99
+    ]
+  }
+}
