@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "av:block/tech_blocks/light_blocks/11"
+  }
+}

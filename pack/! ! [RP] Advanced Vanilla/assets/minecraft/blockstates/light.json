@@ -1,52 +1,52 @@
 {
   "variants": {
     "level=0": {
-      "model": "av:block/light_blocks/00"
+      "model": "av:block/light_blocks/light_00"
     },
     "level=1": {
-      "model": "av:block/light_blocks/01"
+      "model": "av:block/light_blocks/light_01"
     },
     "level=10": {
-      "model": "av:block/light_blocks/10"
+      "model": "av:block/light_blocks/light_10"
     },
     "level=11": {
-      "model": "av:block/light_blocks/11"
+      "model": "av:block/light_blocks/light_11"
     },
     "level=12": {
-      "model": "av:block/light_blocks/12"
+      "model": "av:block/light_blocks/light_12"
     },
     "level=13": {
-      "model": "av:block/light_blocks/13"
+      "model": "av:block/light_blocks/light_13"
     },
     "level=14": {
-      "model": "av:block/light_blocks/14"
+      "model": "av:block/light_blocks/light_14"
     },
     "level=15": {
-      "model": "av:block/light_blocks/15"
+      "model": "av:block/light_blocks/light_15"
     },
     "level=2": {
-      "model": "av:block/light_blocks/02"
+      "model": "av:block/light_blocks/light_02"
     },
     "level=3": {
-      "model": "av:block/light_blocks/03"
+      "model": "av:block/light_blocks/light_03"
     },
     "level=4": {
-      "model": "av:block/light_blocks/04"
+      "model": "av:block/light_blocks/light_04"
     },
     "level=5": {
-      "model": "av:block/light_blocks/05"
+      "model": "av:block/light_blocks/light_05"
     },
     "level=6": {
-      "model": "av:block/light_blocks/06"
+      "model": "av:block/light_blocks/light_06"
     },
     "level=7": {
-      "model": "av:block/light_blocks/07"
+      "model": "av:block/light_blocks/light_07"
     },
     "level=8": {
-      "model": "av:block/light_blocks/08"
+      "model": "av:block/light_blocks/light_08"
     },
     "level=9": {
-      "model": "av:block/light_blocks/09"
+      "model": "av:block/light_blocks/light_09"
     }
   }
 }

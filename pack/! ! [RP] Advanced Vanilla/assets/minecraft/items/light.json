@@ -6,119 +6,119 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/00"
+          "model": "av:block/light_blocks/item/light_00"
         },
-        "when": "0"
+        "when": "light_0"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/01"
+          "model": "av:block/light_blocks/item/light_01"
         },
         "when": "1"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/02"
+          "model": "av:block/light_blocks/item/light_02"
         },
         "when": "2"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/03"
+          "model": "av:block/light_blocks/item/light_03"
         },
         "when": "3"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/04"
+          "model": "av:block/light_blocks/item/light_04"
         },
         "when": "4"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/05"
+          "model": "av:block/light_blocks/item/light_05"
         },
         "when": "5"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/06"
+          "model": "av:block/light_blocks/item/light_06"
         },
         "when": "6"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/07"
+          "model": "av:block/light_blocks/item/light_07"
         },
         "when": "7"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/08"
+          "model": "av:block/light_blocks/item/light_08"
         },
         "when": "8"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/09"
+          "model": "av:block/light_blocks/item/light_09"
         },
         "when": "9"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/10"
+          "model": "av:block/light_blocks/item/light_10"
         },
-        "when": "10"
+        "when": "1light_0"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/11"
+          "model": "av:block/light_blocks/item/light_11"
         },
         "when": "11"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/12"
+          "model": "av:block/light_blocks/item/light_12"
         },
         "when": "12"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/13"
+          "model": "av:block/light_blocks/item/light_13"
         },
         "when": "13"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/14"
+          "model": "av:block/light_blocks/item/light_14"
         },
         "when": "14"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "av:block/light_blocks/item/15"
+          "model": "av:block/light_blocks/item/light_15"
         },
         "when": "15"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/light"
+      "model": "av:block/light_blocks/item/light_-00"
     },
     "property": "minecraft:block_state"
   }
