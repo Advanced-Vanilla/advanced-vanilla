@@ -1,0 +1,125 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "block_state_property": "level",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/00"
+        },
+        "when": "0"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/01"
+        },
+        "when": "1"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/02"
+        },
+        "when": "2"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/03"
+        },
+        "when": "3"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/04"
+        },
+        "when": "4"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/05"
+        },
+        "when": "5"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/06"
+        },
+        "when": "6"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/07"
+        },
+        "when": "7"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/08"
+        },
+        "when": "8"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/09"
+        },
+        "when": "9"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/10"
+        },
+        "when": "10"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/11"
+        },
+        "when": "11"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/12"
+        },
+        "when": "12"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/13"
+        },
+        "when": "13"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/14"
+        },
+        "when": "14"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "av:block/light_blocks/item/15"
+        },
+        "when": "15"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/light"
+    },
+    "property": "minecraft:block_state"
+  }
+}
