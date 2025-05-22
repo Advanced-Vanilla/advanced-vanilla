@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "av:item/enchanted_book/default"
+		"layer0": "av:item/enchanted_book/curse_of_vanishing"
 	}
 }
