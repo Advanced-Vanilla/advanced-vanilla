@@ -17,5 +17,10 @@
     "rpo.tooltip.av.devOptions": "[DANGEROUS]",
     "rpo.av.devOptions.fastPrismarineAnimation": "Speed Up Prismarine Animation",
     "rpo.av.experimentOptions.itemTweaks": "25-05_itemTweaks",
-    "rpo.tooltip.experimentOptions.itemTweaks": "Rolles out: Beta 1.4_01"
+    "rpo.tooltip.experimentOptions.itemTweaks": "Rolles out: Beta 1.4_01 | Beta 1.5_05",
+    "rpo.av.experimentOptions.redstoneTweaks": "25-05_redstoneTweaks",
+    "rpo.tooltip.experimentOptions.redstoneTweaks": "Rolles out: Beta 1.5_01",
+    "rpo.av.experimentOptions.itemTweaks.noOverride": "no Override",
+    "rpo.av.experimentOptions.itemTweaks.treatment_1": "Treatment 1 - Beta 1.4_01",
+    "rpo.av.experimentOptions.itemTweaks.treatment_2": "Treatment 2 - Beta 1.5_01"
 } 

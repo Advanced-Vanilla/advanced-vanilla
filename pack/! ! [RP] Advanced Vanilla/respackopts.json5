@@ -13,7 +13,12 @@
         },
         experimentOptions: {
             preview: false,
-            itemTweaks: false
+            itemTweaks: {
+                type: "enum",
+                default: "noOverride",
+                values: ["noOverride", "treatment_1", "treatment_2"]
+            },
+            redstoneTweaks: false
         },
         devOptions: {
             fastPrismarineAnimation: false
