@@ -1,4 +1,4 @@
 {
-    "condition": "useCustomFont",
+    "condition": "!useCustomFont",
     "fallback": "assets/minecraft/textures/font/ascii.png"
 }

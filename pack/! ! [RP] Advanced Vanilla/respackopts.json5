@@ -3,7 +3,7 @@
     version: 13,
     capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
     conf: {
-        useCustomFont: true,
+        useCustomFont: false,
         shaderFeatures: {
             enabled: true
         },
